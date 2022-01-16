@@ -1,4 +1,4 @@
-# Zhining Andi HE <small>&#129680;</small>
+# [Zhining Andi HE <small>&#129680;</small>](#education)
 
 Girl who `</code>`
 

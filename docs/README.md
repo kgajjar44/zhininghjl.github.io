@@ -170,3 +170,5 @@ with Robotium Testing framework.
 * Worked independently to gain hands-on android development experience
 via writing Java code using Android Studio and applied the OOP concept.
 * Optimized Java code, performed testing on physical device and emulator.
+
+---
