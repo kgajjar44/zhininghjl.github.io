@@ -1,3 +1,5 @@
+![logo-talk](_media/IMG_8206.png)
+
 * [EDUCATION](#education)
 * [HIGHLIGHTED](#highlighted)
 * [TECH STACK](#tech-stack)
