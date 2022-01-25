@@ -2,9 +2,9 @@
 
 <h3>BSc. with Specialization in Computing Science</h3>
 
-<div><span class="right">09/2018 – 04/2023</span></div>
-
 <h5><code>University of Alberta</code></h5>
+
+<p>Edmonton, AB<span class="text-right">09/2018 – 04/2023</span></p>
 
 ---
 
@@ -16,7 +16,13 @@
 
 ### Leadership
 
-<div class="label"><strong><code>VP Marketing @iGeek Team</code></strong></div>
+<details class="collapsed">
+  <summary>
+    <strong><code>VP Marketing @iGeek</code></strong>
+  </summary>
+  <br>
+  <i>iGeek is one of the largest technology student group at the University of Alberta that focus on the education and career building of young innovator in STEM.</i>
+</details>
 
 * 2 years’ experience in prioritizing tasks and leading teams to achieve the marketing goals of events.
 * Worked with all teams and hosted the “IT Connection” career fair at the University of Alberta, gathered 1.2k+ participants and 30+ companies.
@@ -81,16 +87,17 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Soft Skills
+
 **`Agile`**
-**`OOP`**
-**`UI/UX Design`**
 **`Client-oriented`**
 **`Communication`**
 **`Creativity`**
 **`Critical Thinking`**
 **`Detail-oriented`**
+**`OOP`**
 **`Open-mindedness`**
 **`Problem-solving`**
+**`UI/UX Design`**
 
 ---
 
@@ -98,11 +105,11 @@
 
 ### Software Engineer Intern
 
-<div class="label"><strong><code>Intuit</code></strong><span class="right">09/2018 – 04/2023</span></div>
+<p><strong><code>Intuit</code></strong><span class="text-right">09/2018 – 04/2023</span></p>
 
 ### Full Stack Developer
 
-<div class="label"><strong><code>Inplico Ltd</code></strong><span class="right">01/2021 – 04/2021</span></div>
+<p><strong><code>Inplico Ltd</code></strong><span class="text-right">01/2021 – 04/2021</span></p>
 
 * Developed the greenfield project Residential Renovation web app for Inplico Ltd using JavaScript, HTML, CSS, ReactJS and Bootstrap Front-end framework, and achieved cross-browser/cross-platform compatibility.
 * Gained hands on back-end experience via building features with C#, ASP.NET, and NodeJS. Using JSON with MongoDB for request data and response processing.
@@ -116,7 +123,7 @@
 
 ### <small><code>3rd place</code></small> HackED Beta Hackathon &#128293;
 
-<p><span class="right">11/2019</span></p>
+<p><span class="text-right">11/2019</span></p>
 
 &#128279; [github.com/zhininghjl/Rescoding](https://www.github.com/zhininghjl/Rescoding) 
 &#128279; [devpost.com/software/rescoding](https://www.devpost.com/software/rescoding)
@@ -133,19 +140,19 @@ elements with photoshop to helps young children especially girls learn about cod
 
 ### Communiti &#127751;
 
-<p><span class="right">10/2021 – 12/2021</span></p>
+<p><span class="text-right">10/2021 – 12/2021</span></p>
 
 &#128279; [github.com/zhininghjl/CMPUT404-F21-Project](https://github.com/zhininghjl/CMPUT404-F21-Project)
 
 ### When the Cat Yawn &#128008;
 
-<p><span class="right">08/2021</span></p>
+<p><span class="text-right">08/2021</span></p>
 
 &#128279; [itch.io/when-cats-yawn](https://thecatinbox.itch.io/when-cats-yawn)
 
 ### Book Trading &#128218;
 
-<p><span class="right">10/2020 – 11/2020</span></p>
+<p><span class="text-right">10/2020 – 11/2020</span></p>
 
 &#128279; [github.com/zhininghjl/SushiPlatter](https://www.github.com/zhininghjl/SushiPlatter)
 
@@ -163,7 +170,7 @@ with Robotium Testing framework.
 
 ### My Bookkeeping &#129534;
 
-<p><span class="right">09/2020</span></p>
+<p><span class="text-right">09/2020</span></p>
 
 &#128279; [github.com/zhininghjl/GearBook-301](https://www.github.com/zhininghjl/GearBook-301)
 

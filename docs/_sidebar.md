@@ -1,7 +1,7 @@
 ![logo-talk](_media/IMG_8206.png)
 
 * [EDUCATION](#education)
-* [HIGHLIGHTED](#highlighted)
+* [HIGHLIGHTS](#highlights)
 * [TECH STACK](#tech-stack)
   * [Languages](#languages)
   * [Frameworks & Platforms & APIs](#frameworks-amp-platforms-amp-apis)
