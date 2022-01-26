@@ -8,11 +8,11 @@
 
 ---
 
-# HIGHLIGHTED
+# HIGHLIGHTS
 
-### Software Development & Product Management
+### Software Development
 
-* 1 years’ experience in agile software development and product management in cloud technology.
+* 1+ years’ experience in agile software development in cloud technology.
 
 ### Leadership
 
@@ -20,15 +20,17 @@
   <summary>
     <strong><code>VP Marketing @iGeek</code></strong>
   </summary>
-  <br>
-  <i>iGeek is one of the largest technology student group at the University of Alberta that focus on the education and career building of young innovator in STEM.</i>
+  <p class="warn">iGeek is one of the largest technology student group at the University of Alberta that focus on the education and career building of young innovator in STEM.</p>
 </details>
 
-* 2 years’ experience in prioritizing tasks and leading teams to achieve the marketing goals of events.
-* Worked with all teams and hosted the “IT Connection” career fair at the University of Alberta, gathered 1.2k+ participants and 30+ companies.
+* 2+ years’ experience in decision making and led the team to achieve marketing goals of public events.
+* Restructured email templates to increase click rates by 20%. Increased subscribers by 80% and the average attendance of events by 30%.
+* Coordinated with other departments to host public events and gathered 1.2k+ participants and 30+ companies in annual career fair at the University of Alberta.
 
 ### Collaboration
-* 4+ years’ experience in committing to team environment dynamics with the ability to resolve team conflicts and follow leadership appropriately to create high-quality products.
+
+* 4+ years’ experience in positively working within team environment.
+* Contributed to high-quality deliverables with effective communication, and solid problem-solving and conflict resolution skill.
 
 ---
 
