@@ -24,13 +24,13 @@
 </details>
 
 * 2+ years’ experience in decision making and led the team to achieve marketing goals of public events.
-* Restructured email templates to increase click rates by 20%. Increased subscribers by 80% and the average attendance of events by 30%.
-* Coordinated with other departments to host public events and gathered 1.2k+ participants and 30+ companies in annual career fair at the University of Alberta.
+* Achieved 50% increment in average newsletters click rates, 20% increment in subscribers, and 10% increment in average event attendance by restructured email templates.
+* Hosted annual career fair at the University of Alberta to gather 1.2k+ participants and 30+ companies in one day by coordinating with other departments efficiently.
 
 ### Collaboration
 
 * 4+ years’ experience in positively working within team environment.
-* Contributed to high-quality deliverables with effective communication, and solid problem-solving and conflict resolution skill.
+* Contributed to high-quality deliverables by effective communication, solid problem-solving and conflict resolution skills.
 
 ---
 
@@ -105,19 +105,35 @@
 
 # EXPERIENCES
 
-### Software Engineer Intern
+### Software Engineering Intern
 
-<p><strong><code>Intuit</code></strong><span class="text-right">09/2018 – 04/2023</span></p>
+<p class="text-right">09/2021 – 08/2022</p>
+
+<details class="collapsed">
+  <summary>
+    <strong><code>Intuit</code></strong>
+  </summary>
+  <p class="warn">Intuit is an American business that specializes in financial software.</p>
+</details>
 
 ### Full Stack Developer
 
-<p><strong><code>Inplico Ltd</code></strong><span class="text-right">01/2021 – 04/2021</span></p>
+<p class="text-right">01/2021 – 04/2021</p>
 
-* Developed the greenfield project Residential Renovation web app for Inplico Ltd using JavaScript, HTML, CSS, ReactJS and Bootstrap Front-end framework, and achieved cross-browser/cross-platform compatibility.
-* Gained hands on back-end experience via building features with C#, ASP.NET, and NodeJS. Using JSON with MongoDB for request data and response processing.
-* Worked closely with client and collaborated remotely with the Agile team of 6 follows scrum practice to identify potential problems and solutions.
-* Detailed technical and client documentation in markdown format, as well as drawing user story maps and low fidelity wireframes.
-* Performed online testing using Selenium and Katalon, performed continuous integration, deployed the application on Cybera Cloud, and released versions on GitHub.
+<details class="collapsed">
+  <summary>
+    <strong><code>Inplico</code></strong>
+  </summary>
+  <p class="warn">Inplico is an Edmonton company specializes in drafting and design services for existing and proposed buildings.</p>
+</details>
+
+* Involved in full Software Development Life Cycle for proper analysis, development, testing, deployment and enhancement of the code.
+* Worked closely with client and remotely with a scrum team of 6  to build a greenfield mvp project in a coordinated and timely manner.
+* Designed and developed a cross-brower/platform website by building reusable components using JavaScript, HTML, CSS, ReactJS and Bootstrap.
+* Gained hands on back-end experience by building features with C#, ASP.NET, NodeJS, and NoSQL MongoDB in cloud environment.
+* Improve software capabilities and usability by fixing bugs and refactoring code.
+* Documented technical and non-technical design documents by writing markdown files and prototyping and constructing user story maps.
+* Performed automation testing using Selenium and Katalon.
 
 ---
 
@@ -125,16 +141,17 @@
 
 ### <small><code>3rd place</code></small> HackED Beta Hackathon &#128293;
 
+?> ResCoding Game is the winning project from over 20 teams. It is designed to educate young children, especially girls, on coding logic with fun stages, cute graphics, and with ease to use UI.
+
 <p><span class="text-right">11/2019</span></p>
 
-&#128279; [github.com/zhininghjl/Rescoding](https://www.github.com/zhininghjl/Rescoding) 
 &#128279; [devpost.com/software/rescoding](https://www.devpost.com/software/rescoding)
 
-* Contributed to the design and development of the ResCoding Game in a 24-hour hackathon and won in 20+ teams.
-* Built the game with clean Python code and Pygame module.
-* Led the UI design and served as the visual artists of the team, made visual
-elements with photoshop to helps young children especially girls learn about coding logic through fun stages and cute graphics.
-* Demonstrate the project to local technology companies at the Startup Edmonton Demo Camp event.
+&#128279; [github.com/zhininghjl/Rescoding](https://www.github.com/zhininghjl/Rescoding) 
+
+* Contributed to architecture design and development by building the game with clean Python code, Pygame module and JSON in 24 hours.
+* Led UI design and created all visual elements using Adobe Photoshop.
+* Demonstrated the project to local technology companies at the Startup Edmonton Demo Camp event.
 
 ---
 
@@ -144,7 +161,7 @@ elements with photoshop to helps young children especially girls learn about cod
 
 <p><span class="text-right">10/2021 – 12/2021</span></p>
 
-&#128279; [github.com/zhininghjl/CMPUT404-F21-Project](https://github.com/zhininghjl/CMPUT404-F21-Project)
+&#128279; [github.com/zhininghjl/communiti-404F21](https://github.com/zhininghjl/communiti-404F21)
 
 ### When the Cat Yawn &#128008;
 
@@ -152,32 +169,16 @@ elements with photoshop to helps young children especially girls learn about cod
 
 &#128279; [itch.io/when-cats-yawn](https://thecatinbox.itch.io/when-cats-yawn)
 
-### Book Trading &#128218;
+### Bookworm &#128218;
 
 <p><span class="text-right">10/2020 – 11/2020</span></p>
 
-&#128279; [github.com/zhininghjl/SushiPlatter](https://www.github.com/zhininghjl/SushiPlatter)
+&#128279; [github.com/zhininghjl/bookworm-301F20](https://www.github.com/zhininghjl/bookworm-301F20)
 
-* Contributed to developing a reliable real-time Android app with clean Java
-code using native Android SDK in Android Studio and applied OOP concept.
-* Built a fast uptime NoSQL database with cloud firestore.
-* Participated in the agile development process and performed pair
-programming, helped debug 20+ issues, optimized Java code and structure
-for faster performance, and reduce original storage by 50%.
-* Led UI designer and developer of the application, applied user-centered
-and easy to use design, and worked closely with other developers to
-review system UX/UI improvements.
-* Performed unit testing with JUnit Testing framework and intent testing
-with Robotium Testing framework.
-
-### My Bookkeeping &#129534;
-
-<p><span class="text-right">09/2020</span></p>
-
-&#128279; [github.com/zhininghjl/GearBook-301](https://www.github.com/zhininghjl/GearBook-301)
-
-* Worked independently to gain hands-on android development experience
-via writing Java code using Android Studio and applied the OOP concept.
-* Optimized Java code, performed testing on physical device and emulator.
+* Contributed to a reliable native Android application by writing robust code using Java, Android Studio, and Android SDK, frequently utilizing object-oriented programming concepts.
+* Built a fast uptime NoSQL database using Firestore cloud.
+* Improved application performance and reduce 30% of the application size by fixing 20+ bugs and optimizing codebase.
+* Led UI design and developed a user-centered interface by prototyping solution and styling elements using xml.
+* Performed unit testing with JUnit and intent testing with Robotium.
 
 ---
