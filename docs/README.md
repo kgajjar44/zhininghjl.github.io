@@ -48,15 +48,16 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Json](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 
-### Frameworks & Platforms & APIs
+### Frameworks & Platforms & Libraries
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-ff1709?style=for-the-badge&color=ff1709)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Databases
@@ -90,16 +91,15 @@
 
 ### Soft Skills
 
-**`Agile`**
-**`Client-oriented`**
-**`Communication`**
-**`Creativity`**
-**`Critical Thinking`**
-**`Detail-oriented`**
-**`OOP`**
-**`Open-mindedness`**
-**`Problem-solving`**
-**`UI/UX Design`**
+![Agile](https://img.shields.io/badge/Agile-%23FF0000?style=for-the-badge)
+![Client-oriented](https://img.shields.io/badge/Client%2d-oriented-darkorange?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-FCC624?style=for-the-badge)
+![Creativity](https://img.shields.io/badge/Creativity-green?style=for-the-badge)
+![Detail-oriented](https://img.shields.io/badge/Detail%2d-oriented-3DDC84?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-deepskyblue?style=for-the-badge)
+![Open-mindedness](https://img.shields.io/badge/Open%2d-mindedness-0078D6?style=for-the-badge)
+![Problem-solving](https://img.shields.io/badge/Problem%2d-solving-blueviolet?style=for-the-badge)
+![UI/UX Design](https://img.shields.io/badge/UI%2fUX%20Design-hotpink?style=for-the-badge)
 
 ---
 
