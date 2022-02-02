@@ -175,9 +175,11 @@
 
 &#128279; [github.com/zhininghjl/bookworm-301F20](https://www.github.com/zhininghjl/bookworm-301F20)
 
-* Contributed to a reliable native Android application by writing robust code using Java, Android Studio, and Android SDK, frequently utilizing object-oriented programming concepts.
+>? Bookworm is an Android application that provides services to track the physical borrowing and exchange status of personal books or media.
+
+* Contributed to a reliable and scalable native Android application by writing robust code using Java, Android Studio, and Android SDK, frequently utilizing object-oriented programming concepts.
 * Built a fast uptime NoSQL database using Firestore cloud.
-* Improved application performance and reduce 30% of the application size by fixing 20+ bugs and optimizing codebase.
+* Improved application performance by reducing 30% of the application size, fixing 20+ bugs and optimizing codebase.
 * Led UI design and developed a user-centered interface by prototyping solution and styling elements using xml.
 * Performed unit testing with JUnit and intent testing with Robotium.
 
