@@ -163,7 +163,7 @@
 
 &#128279; [github.com/zhininghjl/communiti-404F21](https://github.com/zhininghjl/communiti-404F21)
 
-### When the Cat Yawn &#128008;
+### When the Cat Yawn &#128049;
 
 <p><span class="text-right">08/2021</span></p>
 
@@ -175,7 +175,7 @@
 
 &#128279; [github.com/zhininghjl/bookworm-301F20](https://www.github.com/zhininghjl/bookworm-301F20)
 
->? Bookworm is an Android application that provides services to track the physical borrowing and exchange status of personal books or media.
+?> Bookworm is an Android application that provides services to track the physical borrowing and exchange status of personal books or media.
 
 * Contributed to a reliable and scalable native Android application by writing robust code using Java, Android Studio, and Android SDK, frequently utilizing object-oriented programming concepts.
 * Built a fast uptime NoSQL database using Firestore cloud.
