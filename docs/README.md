@@ -142,13 +142,13 @@
 
 ### <small><code>3rd place</code></small> HackED Beta Hackathon &#128293;
 
+?> ResCoding Game is the winning project from over 20 teams. It is designed to educate young children, especially girls, on coding logic with fun stages, cute graphics, and with ease to use UI.?> ResCoding Game is the winning project from over 20 teams. It is designed to educate young children, especially girls, on coding logic with fun stages, cute graphics, and with easy to use UI.
+
 <p><span class="text-right">11/2019</span></p>
 
 &#128279; [devpost.com/software/rescoding](https://www.devpost.com/software/rescoding)
 
 &#128279; [github.com/zhininghjl/Rescoding](https://www.github.com/zhininghjl/Rescoding) 
-
-?> ResCoding Game is the winning project from over 20 teams. It is designed to educate young children, especially girls, on coding logic with fun stages, cute graphics, and with ease to use UI.?> ResCoding Game is the winning project from over 20 teams. It is designed to educate young children, especially girls, on coding logic with fun stages, cute graphics, and with easy to use UI.
 
 * Contributed to architecture design and development by building the game with clean Python code, Pygame module and JSON in 24 hours.
 * Lead artist and built visual elements using Adobe Photoshop.
@@ -160,11 +160,11 @@
 
 ### Communiti &#127751;
 
+?> Communiti is a blogging/social network platform that allow users to share posts, comments and likes, a well as following others.
+
 <p><span class="text-right">10/2021 – 12/2021</span></p>
 
 &#128279; [github.com/zhininghjl/communiti-404F21](https://github.com/zhininghjl/communiti-404F21)
-
-?> Communiti is a blogging/social network platform that allow users to share posts, comments and likes, a well as following others.
 
 * Worked on the back-end development by building a reliable Django RESTful API that served web services calls and data to the javaScript front-end using Django framework and clean python code.
 * Drafted a detailed and comprehensive API documentation following best practise.
@@ -186,11 +186,11 @@
 
 ### Bookworm &#128218;
 
+?> Bookworm is an Android application that provides services to track the physical borrowing and exchange status of personal books or media.
+
 <p><span class="text-right">10/2020 – 11/2020</span></p>
 
 &#128279; [github.com/zhininghjl/bookworm-301F20](https://www.github.com/zhininghjl/bookworm-301F20)
-
-?> Bookworm is an Android application that provides services to track the physical borrowing and exchange status of personal books or media.
 
 * Contributed to a reliable and scalable native Android application by writing robust code using Java, Android Studio, and Android SDK, following object oriented programming best practise.
 * Designed and built a fast uptime NoSQL database using Firestore cloud.
