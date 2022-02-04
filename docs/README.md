@@ -52,9 +52,10 @@
 
 ![REST](https://img.shields.io/badge/REST-ff1709?style=for-the-badge&color=ff1709)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
@@ -128,11 +129,11 @@
 </details>
 
 * Involved in full Software Development Life Cycle for proper analysis, development, testing, deployment and enhancement of the code.
-* Worked closely with client and remotely with a scrum team of 6  to build a greenfield mvp project in a coordinated and timely manner.
-* Designed and developed a cross-brower/platform website by building reusable components using JavaScript, HTML, CSS, ReactJS and Bootstrap.
+* Worked closely and remotely with the client team and a scrum team of 6 to build a greenfield MVP project in a coordinated and timely manner.
+* Worked on the front-end by developing a cross-brower/platform compatible website using JavaScript, HTML, CSS, and Bootstrap, building reusable components using ReactJS.
 * Gained hands on back-end experience by building features with C#, ASP.NET, NodeJS, and NoSQL MongoDB in cloud environment.
 * Improve software capabilities and usability by fixing bugs and refactoring code.
-* Documented technical and non-technical design documents by writing markdown files and prototyping and constructing user story maps.
+* Documented technical and non-technical design documents by writing markdown files, prototyping and constructing user story maps.
 * Performed automation testing using Selenium and Katalon.
 
 ---
@@ -141,16 +142,16 @@
 
 ### <small><code>3rd place</code></small> HackED Beta Hackathon &#128293;
 
-?> ResCoding Game is the winning project from over 20 teams. It is designed to educate young children, especially girls, on coding logic with fun stages, cute graphics, and with ease to use UI.
-
 <p><span class="text-right">11/2019</span></p>
 
 &#128279; [devpost.com/software/rescoding](https://www.devpost.com/software/rescoding)
 
 &#128279; [github.com/zhininghjl/Rescoding](https://www.github.com/zhininghjl/Rescoding) 
 
+?> ResCoding Game is the winning project from over 20 teams. It is designed to educate young children, especially girls, on coding logic with fun stages, cute graphics, and with ease to use UI.?> ResCoding Game is the winning project from over 20 teams. It is designed to educate young children, especially girls, on coding logic with fun stages, cute graphics, and with easy to use UI.
+
 * Contributed to architecture design and development by building the game with clean Python code, Pygame module and JSON in 24 hours.
-* Led UI design and created all visual elements using Adobe Photoshop.
+* Lead artist and built visual elements using Adobe Photoshop.
 * Demonstrated the project to local technology companies at the Startup Edmonton Demo Camp event.
 
 ---
@@ -163,11 +164,23 @@
 
 &#128279; [github.com/zhininghjl/communiti-404F21](https://github.com/zhininghjl/communiti-404F21)
 
+?> Communiti is a blogging/social network platform that allow users to share posts, comments and likes, a well as following others.
+
+* Worked on the back-end development by building a reliable Django RESTful API that served web services calls and data to the javaScript front-end using Django framework and clean python code.
+* Drafted a detailed and comprehensive API documentation following best practise.
+* Designed and developed a SQL relational database model to facilitate efficient data manipulation.
+* Drived technical demos, mentored teammates on technical concepts.
+* Conducted in code reviews by providing effective and detailed feedbacks.
+* Improved application performance by testing, diagnosing issues and fixing critical bugs.
+
 ### When the Cat Yawn &#128049;
 
 <p><span class="text-right">08/2021</span></p>
 
-&#128279; [itch.io/when-cats-yawn](https://thecatinbox.itch.io/when-cats-yawn)
+&#127918; [itch.io/when-cats-yawn](https://thecatinbox.itch.io/when-cats-yawn)
+
+* Contributed to game design and development by building the game using Godot engine clean GDScript in Alberta Game Jam.
+* Led UI design and created all visual elements using Adobe Photoshop.
 
 ### Bookworm &#128218;
 
@@ -177,10 +190,10 @@
 
 ?> Bookworm is an Android application that provides services to track the physical borrowing and exchange status of personal books or media.
 
-* Contributed to a reliable and scalable native Android application by writing robust code using Java, Android Studio, and Android SDK, frequently utilizing object-oriented programming concepts.
-* Built a fast uptime NoSQL database using Firestore cloud.
+* Contributed to a reliable and scalable native Android application by writing robust code using Java, Android Studio, and Android SDK, following object oriented programming best practise.
+* Designed and built a fast uptime NoSQL database using Firestore cloud.
 * Improved application performance by reducing 30% of the application size, fixing 20+ bugs and optimizing codebase.
-* Led UI design and developed a user-centered interface by prototyping solution and styling elements using xml.
+* Led UI design and developed a user friendly interface by prototyping solution and styling elements using XML.
 * Performed unit testing with JUnit and intent testing with Robotium.
 
 ---
