@@ -175,6 +175,8 @@
 
 ### When the Cat Yawn &#128049;
 
+?> An addictive and simple chain effect cat game that is easy to play with just one click.
+
 <p><span class="text-right">08/2021</span></p>
 
 &#127918; [itch.io/when-cats-yawn](https://thecatinbox.itch.io/when-cats-yawn)
